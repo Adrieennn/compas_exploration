@@ -1,0 +1,7 @@
+*.csv
+*.db
+*.py
+README
+Compas Analysis.ipynb
+Cox with interaction term and independent variables.ipynb
+.ipynb_checkpoints/
